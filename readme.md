@@ -5,3 +5,4 @@
 
 # git checkout -b {nome da Brench}
 # git branch -d {nome da branch}
+# git switch {nome da branch}
